@@ -1,6 +1,6 @@
-# 个人凭证，永远不要提交
+# 个人凭证 / 运行时产物，永远不要提交
+pc/config.json
 meiyou_config.h
-config.json
 trace.log
 
 # Python
