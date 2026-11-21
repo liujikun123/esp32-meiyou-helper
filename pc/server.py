@@ -676,7 +676,8 @@ details summary{cursor:pointer;font-size:13px;color:#3b7ddd;outline:none;user-se
 </div>
 
 <div class="foot">ESP32 美柚助手 · 个人做的小工具，与美柚、小智官方没有任何关系<br>
-用的是美柚 App 的非公开接口，随时可能失效；请只给自己家用</div>
+用的是美柚 App 的非公开接口，随时可能失效；请只给自己家用<br>
+代码：github.com/liujikun123/esp32-meiyou-helper</div>
 </div>
 <script>
 const $ = s => document.querySelector(s);
