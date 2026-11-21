@@ -1,0 +1,12 @@
+# 个人凭证，永远不要提交
+meiyou_config.h
+config.json
+trace.log
+
+# Python
+__pycache__/
+*.pyc
+
+# 本地编译产物
+build/
+*.bin
